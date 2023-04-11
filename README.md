@@ -1,17 +1,19 @@
 # 👋🥬 Hi Chicorees!
-
+I'm Julien - UX Designer, Consultant and soon to be Full Stack Web Dev!
 
 ## The TL;DR
 - [x] UX Designer & Product Owner 
+- [x] Consultant for Digital Products 
 - [x] B.Sc. Psychology
 - [x] Berlin since 1994
 - [ ] Full Stack Web Developer 
+- [ ] (Hopefully) Full Stack Product Person ;)
 
 * * * * * * * * * *
 
 <br>
 
-## T-Shaped People?
+## Are we T-Shaped People?
 Let's share knowledge and help each other grow :herb:
 
 |  |  |
@@ -27,12 +29,18 @@ Let's share knowledge and help each other grow :herb:
 |* Prototyping & User Testing | ![](https://geps.dev/progress/90)|
 |* Information & Experience Design, Usability, A11y | ![](https://geps.dev/progress/90)|
 
+<br>
+
+### Known Tools, to be extended...
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,js,py,selenium,raspberrypi,figma,xd,ai,pr,ps&theme=light)](https://skillicons.dev)
+
+<br>
 
 * * * * * * * * * *
 
 <br>
 
-## Get to know the things I like
+## Some of the things I like
 | Chess      | My Dog           | Foosball  |
 | :-------------: |:-------------:| :-------------:|
 | ![Chess](https://raw.githubusercontent.com/mntzd/mntzd/main/01chess.jpg "Chess") | ![Dogs](https://raw.githubusercontent.com/mntzd/mntzd/main/02Ary4.jpg "My Dog") | ![Dogs](https://raw.githubusercontent.com/mntzd/mntzd/main/3foosball.jpg "Foosball") |
@@ -41,7 +49,14 @@ Let's share knowledge and help each other grow :herb:
 
 
 
-
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 
 * * * * * * * * * *
 Progress Bars are based on the generated Images by [gepser](https://github.com/gepser/markdown-progress)
