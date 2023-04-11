@@ -1,5 +1,7 @@
 # 👋🥬 Hi Chicorees!
-I'm Julien - UX Designer, Consultant and soon to be Full Stack Web Dev!
+`I'm Julien - UX Designer, Consultant and soon to be Full Stack Web Dev!`
+
+<br>
 
 ## The TL;DR
 - [x] UX Designer & Product Owner 
@@ -45,9 +47,7 @@ Let's share knowledge and help each other grow :herb:
 | :-------------: |:-------------:| :-------------:|
 | ![Chess](https://raw.githubusercontent.com/mntzd/mntzd/main/01chess.jpg "Chess") | ![Dogs](https://raw.githubusercontent.com/mntzd/mntzd/main/02Ary4.jpg "My Dog") | ![Dogs](https://raw.githubusercontent.com/mntzd/mntzd/main/3foosball.jpg "Foosball") |
 | I like playing blitz & bullet chess casually online on lichess, if you're open for a game hmu :) | Arya is a 15 year old dog-lady from the shelter, she is afraid of a lot of things & loves taking walks through Brandenburgs forests :dog: | Kneipensport is considered Sport as well no? Where is the Kicker @Spiced by the way??                        
-
-
-
+<br>
 
 * * * * * * * * * *
 
