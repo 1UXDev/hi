@@ -49,14 +49,19 @@ Let's share knowledge and help each other grow :herb:
 
 
 
+* * * * * * * * * *
+
+<br>
+
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  <a href="https://www.linkedin.com/in/julien-leske" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Juliens LinkedIn
+  </a> &nbsp; &nbsp; &nbsp; 
+  <a href="https://github.com/mntzd" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Juliens Github
   </a>
 </p>
 
-* * * * * * * * * *
-Progress Bars are based on the generated Images by [gepser](https://github.com/gepser/markdown-progress)
+<br>
+
+> Progress Bars are based on the generated Images by [gepser](https://github.com/gepser/markdown-progress) <br> Icons by [tandpfun](https://github.com/tandpfun/skill-icons)
