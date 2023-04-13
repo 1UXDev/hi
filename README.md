@@ -53,7 +53,7 @@ Let's share knowledge and help each other grow :herb:
 
 <br>
 
-## Meet our Chicoritas & Chicorinos Team
+## Meet our Chicoritas & Chicorinos
 
 | :princess:| :computer: |
 |:---- | :----- |
