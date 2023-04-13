@@ -3,7 +3,7 @@
 | :princess:| :computer: |
 |:---- | :----- |
 |<img src="https://avatars.githubusercontent.com/u/93935292?v=4" width="50px">|[Vanessa](https://github.com/ZebraDancer)
-|:tiger:|[Cesar](https://github.com/CtzarGM)
+|<img src="https://avatars.githubusercontent.com/u/63978241?v=4" width="50px">|[Cesar](https://github.com/CtzarGM)
 |<img src="https://avatars.githubusercontent.com/u/113789376?v=4" width="50px">|[Daniel](https://github.com/kasulk)
 |<img src="https://avatars.githubusercontent.com/u/15141734?v=4" width="50px">|[Georgios \[*George*\]](https://github.com/flektor)
 |:honeybee:|[Georgios Alexandros \[*Alex*\]](https://github.com/AlexBabkf)
