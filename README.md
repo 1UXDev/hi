@@ -53,6 +53,27 @@ Let's share knowledge and help each other grow :herb:
 
 <br>
 
+## Our Chicoree Team
+| :princess:| :computer: |
+|:---- | :----- |
+|<img src="https://i.stack.imgur.com/gVE0j.png" width="50px">|[Vanessa](https://github.com/ZebraDancer)
+||[Cesar](https://github.com/CtzarGM)
+|[Daniel](https://github.com/kasulk)
+|[Georgios \[*George*\]](https://github.com/flektor)
+|[Georgios Alexandros \[*Alex*\]](https://github.com/AlexBabkf)
+|[Joanna](https://github.com/joannadinah)
+|[Julien](https://github.com/mntzd)
+|[Laya](https://github.com/laya-am)
+|[Lucas](https://github.com/aiamlucas)
+|[Matthias](https://github.com/Asbestcode)
+|[Paramjeet](https://github.com/analyst-paramjeet)
+|[Saba](https://github.com/sabarht)
+|[Samuel](https://github.com/samuellmfa)
+|[Thomas](https://github.com/thomas9291)
+|[Thoralf](https://github.com/spreekaiser)
+
+<br>
+
 <p>
   <a href="https://www.linkedin.com/in/julien-leske" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Juliens LinkedIn
