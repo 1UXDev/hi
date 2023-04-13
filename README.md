@@ -53,24 +53,29 @@ Let's share knowledge and help each other grow :herb:
 
 <br>
 
-## Our Chicoree Team
+## Meet our Chicoritas & Chicorinos Team
+
 | :princess:| :computer: |
 |:---- | :----- |
-|<img src="https://i.stack.imgur.com/gVE0j.png" width="50px">|[Vanessa](https://github.com/ZebraDancer)
-||[Cesar](https://github.com/CtzarGM)
-|[Daniel](https://github.com/kasulk)
-|[Georgios \[*George*\]](https://github.com/flektor)
-|[Georgios Alexandros \[*Alex*\]](https://github.com/AlexBabkf)
-|[Joanna](https://github.com/joannadinah)
-|[Julien](https://github.com/mntzd)
-|[Laya](https://github.com/laya-am)
-|[Lucas](https://github.com/aiamlucas)
-|[Matthias](https://github.com/Asbestcode)
-|[Paramjeet](https://github.com/analyst-paramjeet)
-|[Saba](https://github.com/sabarht)
-|[Samuel](https://github.com/samuellmfa)
-|[Thomas](https://github.com/thomas9291)
-|[Thoralf](https://github.com/spreekaiser)
+|<img src="https://avatars.githubusercontent.com/u/93935292?v=4" width="50px">|[Vanessa](https://github.com/ZebraDancer)
+|:tiger:|[Cesar](https://github.com/CtzarGM)
+|<img src="https://avatars.githubusercontent.com/u/113789376?v=4" width="50px">|[Daniel](https://github.com/kasulk)
+|<img src="https://avatars.githubusercontent.com/u/15141734?v=4" width="50px">|[Georgios \[*George*\]](https://github.com/flektor)
+|:honeybee:|[Georgios Alexandros \[*Alex*\]](https://github.com/AlexBabkf)
+|<img src="https://avatars.githubusercontent.com/u/130276236?v=4" width="50px">|[Joanna](https://github.com/joannadinah)
+|<img src="https://avatars.githubusercontent.com/u/91716565?v=4" width="50px">|[Julien](https://github.com/mntzd)
+|:cat:|[Laya](https://github.com/laya-am)
+|:dolphin:|[Lucas](https://github.com/aiamlucas)
+|<img src="https://avatars.githubusercontent.com/u/113374253?v=4" width="50px">|[Matthias](https://github.com/Asbestcode)
+|:penguin:|[Paramjeet](https://github.com/analyst-paramjeet)
+|<img src="https://avatars.githubusercontent.com/u/91436457?v=4" width="50px">|[Saba](https://github.com/sabarht)
+|<img src="https://avatars.githubusercontent.com/u/46716237?v=4" width="50px">|[Samuel](https://github.com/samuellmfa)
+|<img src="https://avatars.githubusercontent.com/u/130037065?v=4" width="50px">|[Thomas](https://github.com/thomas9291)
+|<img src="https://avatars.githubusercontent.com/u/37504344?v=4" width="50px">|[Thoralf](https://github.com/spreekaiser)
+
+<br>
+
+----------------------------------------------
 
 <br>
 
