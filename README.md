@@ -64,7 +64,7 @@ Let's share knowledge and help each other grow :herb:
 |:honeybee:|[Georgios Alexandros \[*Alex*\]](https://github.com/AlexBabkf)
 |<img src="https://avatars.githubusercontent.com/u/130276236?v=4" width="50px">|[Joanna](https://github.com/joannadinah)
 |<img src="https://avatars.githubusercontent.com/u/91716565?v=4" width="50px">|[Julien](https://github.com/mntzd)
-|<img src="https://avatars.githubusercontent.com/u/104901294?v=4 width="50px">|[Laya](https://github.com/laya-am)
+|<img src="https://avatars.githubusercontent.com/u/104901294?v=4" width="50px">|[Laya](https://github.com/laya-am)
 |:dolphin:|[Lucas](https://github.com/aiamlucas)
 |<img src="https://avatars.githubusercontent.com/u/113374253?v=4" width="50px">|[Matthias](https://github.com/Asbestcode)
 |:penguin:|[Paramjeet](https://github.com/analyst-paramjeet)
