@@ -21,14 +21,14 @@ Let's share knowledge and help each other grow :herb:
 
 |  |  |
 | :------------- |:-------------|
-|* React / Next | ![](https://geps.dev/progress/75)|
-|* MongoDB | ![](https://geps.dev/progress/65)|
-|* vanilla JS | ![](https://geps.dev/progress/95)|
 |* Python | ![](https://geps.dev/progress/20)|
-|* HTML & CSS | ![](https://geps.dev/progress/80)|
 |* Lean Business Modelling | ![](https://geps.dev/progress/50)|
+|* MongoDB | ![](https://geps.dev/progress/65)|
 |* Jira / Confluence / etc. | ![](https://geps.dev/progress/70)|
+|* React / Next | ![](https://geps.dev/progress/75)|
+|* HTML & CSS | ![](https://geps.dev/progress/80)|
 |* DT, Lean UX, Design Sprints | ![](https://geps.dev/progress/85)|
+|* vanilla JS | ![](https://geps.dev/progress/95)|
 |* Prototyping & User Testing | ![](https://geps.dev/progress/95)|
 |* Information & Experience Design, Usability, A11y | ![](https://geps.dev/progress/95)|
 
