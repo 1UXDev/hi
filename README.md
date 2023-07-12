@@ -8,9 +8,8 @@
 - [x] Consultant for Digital Products 
 - [x] B.Sc. Psychology
 - [x] Berlin since 1994
-- [ ] Full Stack Web Developer 
-- [ ] (Hopefully) Full Stack Product Person ;)
-
+- [x] Full Stack Web Developer 
+- [ ] Product Engineering Freelancer and Founder of Communio
 * * * * * * * * * *
 
 <br>
@@ -18,18 +17,20 @@
 ## Are we T-Shaped People?
 Let's share knowledge and help each other grow :herb:
 
+![](https://www.codewars.com/users/mntzd/badges/small)
+
 |  |  |
 | :------------- |:-------------|
-|* React / Angular / Vue | ![](https://geps.dev/progress/5)|
-|* Mongo / SQL | ![](https://geps.dev/progress/5)|
-|* vanilla JS | ![](https://geps.dev/progress/15)|
+|* React / Next | ![](https://geps.dev/progress/75)|
+|* MongoDB | ![](https://geps.dev/progress/65)|
+|* vanilla JS | ![](https://geps.dev/progress/95)|
 |* Python | ![](https://geps.dev/progress/20)|
-|* HTML & CSS | ![](https://geps.dev/progress/30)|
+|* HTML & CSS | ![](https://geps.dev/progress/80)|
 |* Lean Business Modelling | ![](https://geps.dev/progress/50)|
 |* Jira / Confluence / etc. | ![](https://geps.dev/progress/70)|
-|* DT, Lean UX, Design Sprints | ![](https://geps.dev/progress/80)|
-|* Prototyping & User Testing | ![](https://geps.dev/progress/90)|
-|* Information & Experience Design, Usability, A11y | ![](https://geps.dev/progress/90)|
+|* DT, Lean UX, Design Sprints | ![](https://geps.dev/progress/85)|
+|* Prototyping & User Testing | ![](https://geps.dev/progress/95)|
+|* Information & Experience Design, Usability, A11y | ![](https://geps.dev/progress/95)|
 
 <br>
 
