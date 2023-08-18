@@ -9,7 +9,7 @@
 - [x] B.Sc. Psychology
 - [x] Berlin since 1994
 - [x] Full Stack Web Developer 
-- [ ] Product Engineering Freelancer and Founder of Communio
+- [x] Product Engineering Freelancer and Founder of Communio
 * * * * * * * * * *
 
 <br>
