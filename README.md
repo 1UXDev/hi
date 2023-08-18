@@ -1,4 +1,4 @@
-# 👋🥬 Hi Chicorees!
+# 👋👾 Hi Visitor!
 `I'm Julien - UX Designer & Full Stack Web Dev!`
 
 <br>
