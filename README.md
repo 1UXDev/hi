@@ -20,9 +20,10 @@
 | :------------- |:-------------|
 |* Python | ![](https://geps.dev/progress/20)|
 |* Lean Business Modelling | ![](https://geps.dev/progress/50)|
+|* React Native | ![](https://geps.dev/progress/50)|
 |* MongoDB | ![](https://geps.dev/progress/65)|
 |* Jira / Confluence / etc. | ![](https://geps.dev/progress/70)|
-|* React / Next | ![](https://geps.dev/progress/80)|
+|* ReactJS / NextJS | ![](https://geps.dev/progress/85)|
 |* HTML & CSS | ![](https://geps.dev/progress/85)|
 |* DT, Lean UX, Design Sprints | ![](https://geps.dev/progress/90)|
 |* vanilla JS | ![](https://geps.dev/progress/95)|
